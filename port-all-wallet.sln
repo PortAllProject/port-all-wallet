@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortAll.Wallet.Cli", "PortAll.Wallet.Cli\PortAll.Wallet.Cli.csproj", "{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortAll.Wallet", "PortAll.Wallet\PortAll.Wallet.csproj", "{295016B1-A73F-43AB-9997-5859FA017B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortAll.Wallet.AElf", "PortAll.Wallet.AElf\PortAll.Wallet.AElf.csproj", "{8C5522E2-B166-4690-9ED1-E694C5CBB4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortAll.Wallet.Ethereum", "PortAll.Wallet.Ethereum\PortAll.Wallet.Ethereum.csproj", "{34F30068-D792-43D1-9C58-59FC3278BA3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B52036B6-5498-4F1F-A157-9E120A6A82FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295016B1-A73F-43AB-9997-5859FA017B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295016B1-A73F-43AB-9997-5859FA017B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295016B1-A73F-43AB-9997-5859FA017B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295016B1-A73F-43AB-9997-5859FA017B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5522E2-B166-4690-9ED1-E694C5CBB4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5522E2-B166-4690-9ED1-E694C5CBB4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5522E2-B166-4690-9ED1-E694C5CBB4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5522E2-B166-4690-9ED1-E694C5CBB4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F30068-D792-43D1-9C58-59FC3278BA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F30068-D792-43D1-9C58-59FC3278BA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F30068-D792-43D1-9C58-59FC3278BA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F30068-D792-43D1-9C58-59FC3278BA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{295016B1-A73F-43AB-9997-5859FA017B91} = {B52036B6-5498-4F1F-A157-9E120A6A82FF}
+		{8C5522E2-B166-4690-9ED1-E694C5CBB4ED} = {B52036B6-5498-4F1F-A157-9E120A6A82FF}
+		{0D532A2B-926D-47FF-9E3F-24FEFE1C05AA} = {B52036B6-5498-4F1F-A157-9E120A6A82FF}
+		{34F30068-D792-43D1-9C58-59FC3278BA3E} = {B52036B6-5498-4F1F-A157-9E120A6A82FF}
+	EndGlobalSection
+EndGlobal

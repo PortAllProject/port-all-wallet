@@ -1,0 +1,30 @@
+2021-06-07 16:23:15.729 +08:00 [INF] Port-All Wallet (https://portall.finance)
+2021-06-07 16:23:15.754 +08:00 [INF] 
+Usage:
+
+    paw <command> <target> [options]
+
+Command List:
+
+    > help: Show command line help. Write ` paw help <command> `
+
+To get a detailed help for a command:
+
+    paw help <command>
+
+
+2021-06-07 16:23:20.104 +08:00 [INF] Port-All Wallet (https://portall.finance)
+2021-06-07 16:23:20.126 +08:00 [INF] 
+Usage:
+
+    paw <command> <target> [options]
+
+Command List:
+
+    > help: Show command line help. Write ` paw help <command> `
+
+To get a detailed help for a command:
+
+    paw help <command>
+
+
